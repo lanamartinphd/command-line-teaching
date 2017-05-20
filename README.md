@@ -14,6 +14,12 @@ The catalogue was prepared for our study "Addressing the digital divide in conte
 - Command Line Coding , http://stem.planteome.org/node/28
 -  Teaching computational biology is as easy as Pi, https://blogs.biomedcentral.com/bmcseriesblog/2013/08/12/teaching-computational-biology-is-as-easy-as-pi/
 
+## Courses 
+
+- Introduction to Unix for life scientists (Event Ended), https://www.eventbrite.com.au/e/introduction-to-unix-02-06-16-registration-25367516926
+- Gentle hands-on introduction to Python programming, http://www.vib.be/en/training/research-training/courses/Pages/Gentle-hands-on-introduction-to-python-programming.aspx
+- UNIX command line and scripting, [http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting] (http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting)
+
 
 ## Published paper
 
