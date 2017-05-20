@@ -18,7 +18,7 @@ The catalogue was prepared for our study "Addressing the digital divide in conte
 
 - Introduction to Unix for life scientists (Event Ended), https://www.eventbrite.com.au/e/introduction-to-unix-02-06-16-registration-25367516926
 - Gentle hands-on introduction to Python programming, http://www.vib.be/en/training/research-training/courses/Pages/Gentle-hands-on-introduction-to-python-programming.aspx
-- UNIX command line and scripting, [http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting] (http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting)
+- UNIX command line and scripting, [http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting](http://mygoblet.org/training-portal/materials/unix-command-line-and-scripting)
 
 
 ## Published paper
