@@ -1,6 +1,11 @@
-## Catalogue of resources and published papers providing learner with basic knowledge of command line 
+## Catalogue of resources providing learner with basic knowledge of command line 
 
-## Online resources
+Researchers in the life sciences and medical sciences increasingly rely on applications that lack a graphical interface and require typing commands through a terminal rather than using a mouse and graphical interface (GUI). Scientists who are not trained in computer science face an enormous challenge in analyzing high-throughput data. 
+
+We have created online catalogue of resources and published papers providing learner with basic knowledge of command line.
+The catalogue was prepared for our study "Addressing the digital divide in contemporary biology: Lessons from teaching UNIX". Preprint is available here : http://biorxiv.org/content/early/2017/04/07/122424
+
+ ## Online resources
 
 - Carpentry, http://swcarpentry.github.io/shell-novice/
 - Unix & Perl Primer for Biologists, http://korflab.ucdavis.edu/unix_and_perl/
@@ -17,6 +22,6 @@
 
 
 
-We are working to improve the catalogue. New resourse  or paper can be added via Issues iterface vy using this link: 
+We are working to improve the catalogue. New resourse  or paper can be added via Issues iterface vy using this link: https://github.com/smangul1/command-line-teaching/issues
 
 (C) Prepared by Serghei Mangul 2017 
