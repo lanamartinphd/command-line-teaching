@@ -1,4 +1,4 @@
-## Catalogue of resources providing learner with basic knowledge of command line 
+## Catalogue of resources providing first-time learners with basic knowledge of command line 
 
 Researchers in the life sciences and medical sciences increasingly rely on applications that lack a graphical interface and require typing commands through a terminal rather than using a mouse and graphical interface (GUI). Scientists who are not trained in computer science face an enormous challenge in analyzing high-throughput data. 
 
