@@ -1,0 +1,312 @@
+Which symbol will be used with grep command to match the pattern pat at the beginning of a line?
+A.
+
+^pat
+
+
+B.
+
+$pat
+
+
+C.
+
+pat$
+
+
+D.
+
+pat^
+
+
+E.
+
+None of the above
+
+
+
+
+2. 
+Which command is used to sort the lines of data in a file in reverse order
+A.
+
+sort
+
+
+B.
+
+sh
+
+
+C.
+
+st
+
+
+D.
+
+sort -r
+
+
+E.
+
+None of the above
+
+
+ 
+
+Which command is used to display the top of the file?
+
+A.
+
+cat
+
+
+B.
+
+head
+
+
+C.
+
+more
+
+
+D.
+
+grep
+
+
+E.
+
+None of the above
+
+
+4. 
+
+Which command is used to copy all files having the string chap and any two characters after that to the progs directory?
+
+A.
+
+cp chap[[::alnum::]]{2} progs
+
+
+B.
+
+cp chap* progs
+
+
+C.
+
+cp chap[12] /progs/*.*
+
+
+D.
+
+cp chap?? /progs/*
+
+
+E.
+
+None of the above
+
+
+6. 
+
+Which command is used to remove a directory?
+
+A.
+
+rm -r
+
+
+B.
+
+rm
+
+
+C.
+
+dldir
+
+
+D.
+
+rdir
+
+
+E.
+
+None of the above
+
+
+
+Which command sends the word count of the file infile to the newfile.
+A.
+
+wc infile >newfile
+
+
+B.
+
+wc <infile >newfile
+
+
+C.
+
+wc infile - newfile
+
+
+D.
+
+wc infile | newfile
+
+
+E.
+
+None of the above
+
+
+
+
+Which command is used to concatenate all files beginning with the string 'emp' and followed by a non-numeric characters?
+A.
+
+cat emp[!0-9]
+
+
+B.
+
+more [emp][!0-9]
+
+
+C.
+
+cat emp[x-z]
+
+
+D.
+
+cat emp[a-z]
+
+
+E.
+
+None of the above
+
+
+
+
+Which command is used to count just the number of lines in a file?
+A.
+
+wc - 1
+
+
+B.
+
+wc -c
+
+
+C.
+
+wc -k
+
+
+D.
+
+wc -r
+
+
+E.
+
+None of the above
+
+
+
+
+
+
+44. 
+Which of the following commands is used to display your current (working) directory?
+A.
+
+dir
+
+
+B.
+
+prompt $p$g
+
+
+C.
+
+pwd
+
+
+D.
+
+path
+
+
+E.
+
+None of the above
+
+Which command is used to display the contents of a file to standard output?
+ a.cd
+ b. ls
+c.  cat
+ d. echo
+
+
+4. What is the meaning of $ sign in awk programming?
+a) the word following is the name of variable
+b) we are refering to a field or column in the current line
+c) $ sign is used for comment
+d) none of the mentioned
+
+
+5. In awk program, the statement “print” with no items
+a) is equivalent to “print $0”
+b) prints the entire current record
+c) both (a) and (b)
+d) none of the mentioned
+
+
+The command “awk {print $1} san.txt” will
+a) print the first line of file san.txt
+b) print the first field of every line in san.txt
+c) generate syntax error
+d) none of the mentioned
+
+How would you search for the string clothes at the end of the line in a file called shopping?
+•	A. Grep 'clothes#' shopping
+•	B.Grep 'clothes!' shopping
+•	C. Grep 'clothes$' shopping
+•	D. Grep 'clothes^' shopping
+How would you sort a file called shopping on column 3?
+•	A.  Sort -n 3 shopping
+•	B. Sort -k 3 shopping
+•	C. Sort -c 3 shopping
+•	D. Sort -c3 shopping
+
+
+What is the purpose of the following operator? >>
+•	A. It is used to send the output of one command so it becomes the input of a second command.
+•	B. It is used to send both input and output to the same file.
+•	C. It is used to overwrite the contents of a file.
+•	D. It appends data to a file without overwriting it.
+
+What is the shortest command to take you to your home directory?
+•	A. Cd ~
+•	B. Cd $HOME
+•	C. Cd
+•	D. .
+
+
+
+
+
+Adopted from here : http://www.indiabix.com/computer-science/unix/ 
+
