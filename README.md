@@ -5,6 +5,7 @@ Researchers in the life sciences and medical sciences increasingly rely on appli
 We have prepared online catalogue of resources and published papers providing first-time learners with basic knowledge of command line.
 The catalogue was prepared for our study "Addressing the digital divide in contemporary biology: Lessons from teaching UNIX". Preprint is available here : [http://biorxiv.org/content/early/2017/04/07/122424](http://biorxiv.org/content/early/2017/04/07/122424)
 
+ 
  ## Online resources
 
 - Carpentry, http://swcarpentry.github.io/shell-novice/
