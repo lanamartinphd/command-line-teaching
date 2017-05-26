@@ -30,6 +30,6 @@ The catalogue was prepared for our study "Addressing the digital divide in conte
 
 
 
-We are working to improve the catalogue. New resourse  or paper can be added by Issues iterface using this link: [https://github.com/smangul1/command-line-teaching/issues](https://github.com/smangul1/command-line-teaching/issues)
+We are working to improve the catalogue. New resourse  or paper can be added by Issues iterface using this link (use "New Issue button"): [https://github.com/smangul1/command-line-teaching/issues](https://github.com/smangul1/command-line-teaching/issues)
 
 (C) Prepared by Serghei Mangul 2017 
