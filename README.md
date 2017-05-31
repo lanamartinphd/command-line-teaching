@@ -26,7 +26,7 @@ The catalogue was prepared for our study "Addressing the digital divide in conte
 
 - Eglen, Stephen J. "A quick guide to teaching R programming to computational biology students." PLoS Comput Biol 5.8 (2009): e1000482.
 - Watson-Haigh, Nathan S., et al. "Next-generation sequencing: a challenge to meet the increasing demand for training workshops in Australia." Briefings in bioinformatics 14.5 (2013): 563-574.
-- 
+- Via, Allegra, et al. "Ten simple rules for developing a short bioinformatics training course." PLoS Comput Biol 7.10 (2011): e1002245.
 
 
 
